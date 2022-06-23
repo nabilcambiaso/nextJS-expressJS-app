@@ -1,6 +1,6 @@
-import React from 'react'
-import Footer from '../components/Footer'
-import Navbar from '../components/Navbar'
+import React from 'react';
+import Footer from '../components/Footer';
+import Navbar from '../components/Navbar';
 
 function Layout({ children }) {
     return (
@@ -12,4 +12,4 @@ function Layout({ children }) {
     )
 }
 
-export default Layout
+export default Layout;
